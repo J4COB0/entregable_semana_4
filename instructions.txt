@@ -1,0 +1,6 @@
+To run this project you first need install all dependecies using the requirements.txt archive
+This project is in the host: 127.0.0.1 using de port 8001
+Once you install all dependencies you can run the server using the command python app.py
+To check if the server is running you can use the path http://127.0.0.1:9001/status
+To add all users you need to use the path http://127.0.0.1:9000/add_users
+The folder test containt all test in this project
